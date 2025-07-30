@@ -2,6 +2,8 @@
 
 Welcome to a comprehensive machine learning project focused on predicting credit card approval status using real-world data and modern ML techniques. This notebook walks you through every step: from raw data to actionable insights and robust models.
 
+Inspired by the YouTube channel: [Data Science with Onur](https://www.youtube.com/@DataSciencewithOnur)
+
 ---
 
 ## 📁 Project Structure
@@ -102,7 +104,4 @@ Automating credit approval helps financial institutions make faster, data-driven
 - Document a reproducible ML workflow.
 
 ---
-
-## ⭐ Credits
-
-Created by a passionate data learner. If you find this project useful, consider starring the
+🌟 If you find my work interesting, feel free to star ⭐ this repo and follow my journey!
