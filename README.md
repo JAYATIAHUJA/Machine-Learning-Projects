@@ -171,6 +171,6 @@ jupyter notebook
 
 ---
 
-<sub>Built with ❤️ and lots of ☕ | © 2025 Your Name</sub>
+<sub>Built with ❤️ and lots of ☕ | © 2025 Jayati Ahuja</sub>
 
 </div>
